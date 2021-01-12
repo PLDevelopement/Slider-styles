@@ -13,7 +13,7 @@ Build date: 2019-12-19 16:51:02
   -ms-user-select: none;
   user-select: none;
   font-size: 12px;
-  font-family: Arial, sans-serif;
+  font-family: Helvetica, sans-serif;
 }
 .irs-line {
   position: relative;
@@ -163,7 +163,7 @@ Build date: 2019-12-19 16:51:02
 .irs--flat .irs-handle {
   top: 22px;
   width: 16px;
-  height: 6px;
+  height: 8px;
   background-color: transparent;
 }
 .irs--flat .irs-handle > i:first-child {
@@ -194,7 +194,7 @@ Build date: 2019-12-19 16:51:02
 .irs--flat .irs-from,
 .irs--flat .irs-to,
 .irs--flat .irs-single {
-  color: white;
+  color: black;
   font-size: 10px;
   line-height: 1.333;
   text-shadow: none;
